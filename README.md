@@ -58,7 +58,7 @@ ffmpeg: Required by pydub for audio file manipulation.
 
 
 
-##Original raw article
+## Original raw article
 
 
 I recently ran a couple of experiments with the ESP32 microcontroller and it was really fun to remember my old electronics classes when everything was a little harder to do.
